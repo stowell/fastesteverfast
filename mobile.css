@@ -1,0 +1,23 @@
+body {
+    width: 90%;
+    margin: auto;
+    font-family: serif;
+}
+h1 {
+    margin: 0;
+    padding: 0.1em;
+    padding-left: 0;
+}
+h2 {
+    margin: 0;
+    padding: 0.1em;
+    padding-left: 0;
+    font-style: italic;
+}
+h3 {
+    padding-left: 0;
+}
+.copyright {
+    font-size: 80%;
+    color: #999;
+}
